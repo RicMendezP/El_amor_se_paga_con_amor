@@ -1,0 +1,23 @@
+project:
+  type: book
+
+book:
+  title: "El amor se paga con amor"
+  subtitle: "Fe y Razón - Agosto 2025"
+  author: "Ricardo Andrés Méndez Pérez"
+  cover-image: portada.png
+  chapters:
+    - index.qmd
+    - introduccion.qmd
+    - capitulo_1.qmd
+    - capitulo_2.qmd
+    - capitulo_3.qmd
+    - capitulo_4.qmd
+    - capitulo_5.qmd
+    - capitulo_6.qmd
+    - capitulo_7.qmd
+format:
+  html:
+    theme: cosmo
+    number-sections: false
+    css: styles.css

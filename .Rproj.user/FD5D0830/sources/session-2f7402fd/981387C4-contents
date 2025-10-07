@@ -1,0 +1,10 @@
+### quarto render
+quarto::quarto_path()
+install.packages("quarto")
+getwd()
+quarto::quarto_render()
+## word to quarto
+"LIC" %in% installed.packages()
+rmarkdown::find_pandoc()
+system("quarto pandoc capitulo_1.docx -t markdown -o capitulo_1.qmd")
+
