@@ -7,3 +7,8 @@ toc: true
 # Esta publicación está en versión borrador, sus comentarios son muy valiosos, puede dirigirlos a ric_mendez@hotmail.com {.unnumbered}
 
 Este documento está certificado bajo la licencia Creative commons “Atribución-NoComercial-Compartir Igual”. Para ver los términos y condiciones, visite [Attribution-NonCommercial-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en) 
+
+::: {.callout-note}
+📄 Puedes descargar el PDF completo del libro aquí:  
+[Descargar “El amor se paga con amor” (PDF)](https://github.com/RicMendezP/El_amor_se_paga_con_amor/raw/main/El_amor_se_paga_con_amor_agosto_9_2025.pdf){target="_blank"}
+:::
