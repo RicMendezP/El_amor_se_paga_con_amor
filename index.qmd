@@ -10,5 +10,5 @@ Este documento está certificado bajo la licencia Creative commons “Atribució
 
 ::: {.callout-note}
 📄 Puedes descargar el PDF completo del libro aquí:  
-[Descargar “El amor se paga con amor” (PDF)](https://github.com/RicMendezP/El_amor_se_paga_con_amor/raw/main/El_amor_se_paga_con_amor_agosto_9_2025.pdf){target="_blank"}
+[Descargar “El amor se paga con amor” (PDF)](https://github.com/RicMendezP/El_amor_se_paga_con_amor/raw/main/El_amor_se_paga_con_amor_agosto_13_2025.pdf){target="_blank"}
 :::

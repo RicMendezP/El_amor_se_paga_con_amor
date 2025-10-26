@@ -1079,8 +1079,6 @@ desarrollo de la civilización, especialmente del mundo occidental, con
 el cual la iglesia como un solo cuerpo está entrelazada a lo largo de su
 historia.
 
-
-
 [^1]: San Esteban
     <https://es.catholic.net/op/articulos/72125/cat/913/san-esteban.html#modal>
 
@@ -1176,7 +1174,7 @@ historia.
     <https://ec.aciprensa.com/wiki/Monacato>
 
 [^28]: Biografía San Jerónimo
-    <https://www.aciprensa.com/recurso/3714/biografia-de-san-jeronimo>
+    [https://www.aciprensa.com/recursos/Biografía-3423](https://www.aciprensa.com/recursos/biografia-3423)
 
 [^29]: Fourth Note: Anticipation of Its Future
     <https://www.newmanreader.org/works/development/chapter5.html#section5>

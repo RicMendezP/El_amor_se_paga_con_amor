@@ -38,8 +38,7 @@ df_footnotes <- tibble(
 archivo_footnotes <- "/home/ricardo/Personal_RM/Libro/Doc_Links/footnotes_completos.csv"
 write.csv(df_footnotes, archivo_footnotes, row.names = FALSE)
 
-cat("✅ Archivo CSV creado con", nrow(df_footnotes), "footnotes en:\n", archivo_csv)
-# Extraer URLs de cada footnote (si hay)
+#Extraer URLs de cada footnote (si hay)
 df_footnotes_urls <- df_footnotes %>%
   mutate(urls = str_extract_all(texto, "https?://[^\\s]+"))
 
@@ -56,9 +55,7 @@ df_footnotes_urls <- df_footnotes %>%
 archivo_footnotes_urls <- "/home/ricardo/Personal_RM/Libro/Doc_Links/footnotes_con_id_urls.csv"
 write.csv(df_footnotes_urls, archivo_footnotes_urls, row.names = FALSE)
 
-cat("✅ Archivo con footnotes + URLs guardado en:\n", archivo_footnotes_urls)
-
-# Ahora vamos rear tabla expandida: una fila por cada URL
+# Ahora vamos rear tabla expandida: una fila por cada URL (pueden haber varias urls en una fila),
 ## y luego verificar urls con errores
 df_urls_expandido <- df_footnotes_urls %>%
   # Filtrar solo los footnotes que tienen URLs
@@ -71,14 +68,10 @@ df_urls_expandido <- df_footnotes_urls %>%
 archivo_urls_expandido <- "/home/ricardo/Personal_RM/Libro/Doc_Links/footnotes_urls_expandido.csv"
 write.csv(df_urls_expandido, archivo_urls_expandido, row.names = FALSE)
 
-cat("✅ Archivo expandido creado en:\n", archivo_urls_expandido, "\n")
-
-
 # 🧠 Función para verificar el estado HTTP de una URL
 # tryCatch() Si la URL funciona → devuelve el status code (por ejemplo 200).
 # Si hay error (timeout, URL mal escrita, servidor no responde) 
 # → entra en el bloque error = function(e) y devuelve NA, en lugar de detener el script.
-
 
 check_url_status <- function(url) {
   tryCatch({
@@ -90,7 +83,7 @@ check_url_status <- function(url) {
   })
 }
 
-# ⏳ Verificar todas las URLs
+# Verificar todas las URLs OJO TOMA UNOS DIEZ MINUTOS
 df_urls_verificadas <- df_urls_expandido %>%
   mutate(status_code = map_int(urls, check_url_status))
 

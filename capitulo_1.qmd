@@ -1602,8 +1602,6 @@ que ha sostenido las columnas de la ética, la moral y los principios y
 valores que han guiado la civilización humana, con sus aspectos
 positivos y negativos y su visión de progreso hasta nuestros días.
 
-
-
 [^1]: ¿ Are we on the road of civilisation collapse ? , Luke Kemp,
     investigación sobre riesgo existencial de la universidad de
     cambridge, 2017,
@@ -1626,7 +1624,7 @@ positivos y negativos y su visión de progreso hasta nuestros días.
 
 [^5]: Biografía de Albert Einstein, físico premio nobel quien desarrolló
     la teoría de la relatividad, base de la física moderna.
-    [https://www.Biografíasyvidas.com/monografia/einstein/](https://www.biografiasyvidas.com/monografia/einstein/)
+    <https://www.biografiasyvidas.com/monografia/einstein/>
 
 [^6]: Biografía de Niels Bohr, físico premio novel quien se destacó por
     su investigación sobre la estructura de los átomos y la radiación
@@ -1695,7 +1693,7 @@ positivos y negativos y su visión de progreso hasta nuestros días.
 
 [^21]: Las Teoría de cuerdas se basan en estados vibracionales de la
     materia, no en partículas.
-    https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/neurociencia-de-los-hbitos-606/teora-de-cuerdas-12292
+    <https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/neurociencia-de-los-hbitos-606/teora-de-cuerdas-12292>
 
 [^22]: Un universo que nace de las leyes de la física y la fuerza de la
     gravedad a partir de "la nada", es la posición de dos científicos de
@@ -1721,7 +1719,7 @@ positivos y negativos y su visión de progreso hasta nuestros días.
     mundo investigaciones de tipo experimental. El proyecto BICEP
     comenzó investigaciones del 2006 al 2008 , el BICEP2 es una
     continuación del mismo
-    <https://lweb.cfa.harvard.edu/CMB/bicep2/science.html>
+    <https://www-cfa-harvard-edu.translate.goog/news/first-direct-evidence-cosmic-inflation?\_x_tr_sl=en&\_x_tr_tl=es&\_x_tr_hl=es&\_x_tr_pto=tc>
 
 [^29]: El origen de la materia
     <https://www.investigacionyciencia.es/revistas/investigacion-y-ciencia/la-geodinamo-399/el-origen-de-la-materia-4337>
@@ -1729,12 +1727,11 @@ positivos y negativos y su visión de progreso hasta nuestros días.
 [^30]: ¿Que forma tiene el universo ?
     <https://www.investigacionyciencia.es/noticias/qu-forma-tiene-el-universo-un-nuevo-estudio-mantiene-que-estbamos-muy-equivocados-17989>
 
-[^31]: ¿ Si el universo actual es de 14 billones de años luz, como es
-    posible observar objetos a 47 billones de años luz de distancia ?
-    <http://www.astro.ucla.edu/~wright/cosmology_faq.html#DN> Edward L.
-    (Ned) Wright , obtuvo su grado PhD en astronomía de la universidad
-    de Harvard en 1976. Luego de enseñar en el departamento de Física de
-    MIT, ha sido profesor en UCLA desde 1981.
+[^31]: La expansión del universo explica como puede tener un diámetro
+    mucho mayor al de 13.8 Bill. De años luz, Astronomy, Junio 2024,
+    Edward Herrick-Gleason, Director del Planetario
+    Southworth,Universidad del Sur de Maine, Portland, Maine
+    <https://www-astronomy-com.translate.goog/science/size-of-the-universe/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=sge&_x_tr_hist=true>
 
 [^32]: ¿ Donde está el centro del Big Bang ?
     <http://www.astro.ucla.edu/~wright/nocenter.html> Edward L. (Ned)
@@ -1751,9 +1748,8 @@ positivos y negativos y su visión de progreso hasta nuestros días.
 [^35]: Biografía de Aristóteles
     <https://www.biografiasyvidas.com/monografia/aristoteles/>
 
-[^36]: 80 años del entrelazamiento cuántico de Einstein, Podolsky y
-    Rosen
-    <https://www.scientificamerican.com/espanol/noticias/ochenta-anos-del-entrelazamiento-cuantico/>
+[^36]: ¿Qué es la inquietante ciencia del entrelazamiento cuántico?
+    <https://science-nasa-gov.translate.goog/what-is-the-spooky-science-of-quantum-entanglement/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc>
 
 [^37]: ¿Que son los cubits?
     <https://platzi.com/tutoriales/1098-ingenieria/1521-que-son-los-cubits/>
@@ -1896,7 +1892,7 @@ positivos y negativos y su visión de progreso hasta nuestros días.
     post-moderno <https://www.infoamerica.org/teoria/nagel1.htm>
 
 [^80]: Ver documento completo ¿Que se siente ser un murciélago ?:
-    <https://pdfs.semanticscholar.org/3c41/da79e03876d1cf69f5784e880aabd4844c91.pdf>
+    <https://www.sas.upenn.edu/~cavitch/pdf-library/Nagel_Bat.pdf>
 
 [^81]: Materialismo científico
     <https://es.wikipedia.org/wiki/Materialismo_científico>

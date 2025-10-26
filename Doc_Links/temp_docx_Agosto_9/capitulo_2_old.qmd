@@ -8,6 +8,7 @@ format:
     theme: cosmo
     css: styles.css
 ---
+
 # **CAPÍTULO II**
 
 ## La religión
@@ -2732,8 +2733,9 @@ Henry Newman, "es el corazón encontrando el corazón".
     alguna vez se consideró como el eslabón perdido
     <https://es.wikipedia.org/wiki/Homo_erectus_pekinensis>
 
-[^23]: Cultura Cishan y Peiligang
-    <https://es.wikipedia.org/wiki/Cultura_Cishan>
+[^23]: Introducción a la economía China: los inicios de la época
+    dinástica
+    <https://zhuangziinstitute.org/tag/cultura-de-peilikan-y-cishan/>
 
 [^24]: Neolithic period in China
     <https://www.metmuseum.org/toah/hd/cneo/hd_cneo.htm>
@@ -2743,7 +2745,7 @@ Henry Newman, "es el corazón encontrando el corazón".
 
 [^26]: La edad de los metales se estima vá desde el siglo VI AC hasta el
     siglo I AC; comienza con el trabajo del Cobre, el Bronce y el
-    Hierro. <https://es.wikipedia.org/wiki/Edad_de_los_Metales>
+    Hierro. <https://www.historiando.org/edad-de-los-metales/>
 
 [^27]: La civilización implica un sistema social más organizado que la
     aldea o la tribu. Existen relaciones más complejas de comercio,
@@ -2753,7 +2755,7 @@ Henry Newman, "es el corazón encontrando el corazón".
 
 [^28]: Origen hipotético desde la tradición Eloista -- Yahvista de los
     libros del Tanaj (Judío ) o algunos libros del Antiguo testamento
-    (Cristiano) <https://es-academic.com/dic.nsf/eswiki/424202>
+    (Cristiano) https://es-academic.com/dic.nsf/eswiki/424202
 
 [^29]: What is Judaism ?
     <https://www.chabad.org/library/article_cdo/aid/3710122/jewish/What-Is-Judaism.htm#Watch>
@@ -2774,7 +2776,7 @@ Henry Newman, "es el corazón encontrando el corazón".
     <https://www.jewishvirtuallibrary.org/the-name-of-god>
 
 [^32]: Acerca de la religión Judía
-    <https://es.chabad.org/library/article_cdo/aid/3235655/jewish/Quines-son-los-judos.htm>
+    https://es.chabad.org/library/article_cdo/aid/3235655/jewish/Quines-son-los-judos.htm
 
 [^33]: Historia del Pueblo Judío
     <https://www.jewishvirtuallibrary.org/history>
@@ -2788,10 +2790,10 @@ Henry Newman, "es el corazón encontrando el corazón".
     <https://es.catholic.net/op/articulos/20581/cat/24/las-religiones-cristianas-protestantes-y-ortodoxos.html#modal>
 
 [^37]: Biografía de Mahoma
-    <https://www.biografiasyvidas.com/biografia/m/mahoma.htm>
+    [https://www.Biografíasyvidas.com/Biografía/m/mahoma.htm#:\~:text=A%20los%20seis%20a%C3%B1os%20qued%C3%B3,comerciante%20respetado%20en%20la%20ciudad.](https://www.biografiasyvidas.com/biografia/m/mahoma.htm#:~:text=A los seis años quedó,comerciante respetado en la ciudad.)
 
-[^38]: La Biblia -- Latinoamérica, Edición revisada 2005. Texto íntegro
-    traducido del hebreo y del griego. Génesis,16
+[^38]: Biografía de Ismael
+    [https://www.Biografíasyvidas.com/Biografía/i/ismael.htm](https://www.biografiasyvidas.com/biografia/i/ismael.htm)
 
 [^39]: El Dios del Islam es Alá
     <https://www.islamreligion.com/es/articles/195/quien-es-allah/>
@@ -2813,7 +2815,7 @@ Henry Newman, "es el corazón encontrando el corazón".
     [https://es.wikipedia.org/wiki/Periodo_v%C3%A9dico](https://es.wikipedia.org/wiki/Periodo_védico)
 
 [^45]: La antigua Grecia
-    <https://www.worldhistory.org/trans/es/1-119/antigua-grecia/>
+    https://www.worldhistory.org/trans/es/1-119/antigua-grecia/
 
 [^46]: Invasión Aria a la India 1500 A.C
     [https://www.ecured.cu/Invasi%C3%B3n_aria_a_la_India](https://www.ecured.cu/Invasión_aria_a_la_India)
@@ -2849,13 +2851,13 @@ Henry Newman, "es el corazón encontrando el corazón".
     <https://www.hinduamerican.org/blog/12-things-you-need-to-know-about-hinduism/>
 
 [^55]: La nueve creencias principales del Hinuduismo
-    <https://www-omspiritualshop-com.translate.goog/blogs/news/nine-beliefs-in-hinduism-the-foundation-of-a-spiritual-life?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc>
+    <https://www.himalayanacademy.com/readlearn/basics/nine-beliefs>
 
 [^56]: El trimurti o tres formas
     <https://es.wikipedia.org/wiki/Trimurti>
 
 [^57]: Cuatro factores del Hinduismo
-    <https://www.hinduamerican.org/blog/what-are-the-four-stages-of-hindu-life/>
+    <https://www.himalayanacademy.com/readlearn/basics/four-facts>
 
 [^58]: The origins of Buddhism
     <https://asiasociety.org/education/origins-buddhism>
@@ -2869,11 +2871,13 @@ Henry Newman, "es el corazón encontrando el corazón".
 [^61]: Buddhism, Scripts and texts
     <https://www.thebuddhistsociety.org/page/scriptures-texts>
 
-[^62]: El Confusionismo es una tradición filosófica de la china que se
-    desarrolla como respuesta a los cambios sociales más que a una
-    concepción metafísica; la filosofía Taoísta enfatiza la naturalidad,
-    la espontaneidad y la no acción (wu wey)
-    <https://maestrosdeoriente.com/descubre-los-fundamentos-del-taoismo-budismo-y-confucianismo-un-viaje-a-la-sabiduria-ancestral/>
+[^62]: El Confusionismo enseña una verdad desde el equilibrio de dos
+    energías contrarias pero complementarias, el yin y el yang ( ej. El
+    calor y el frio, femenino y masculino, etc) y el Taoísmo rechaza el
+    conocimiento racional y apuesta por la sabiduría intuitiva y la
+    espontaneidad de acuerdo a la naturaleza de cada uno y al entorno de
+    la naturaleza que le rodea.
+    <https://universoyrealidad.com/2017/08/11/confucionismo-y-taoismo/>
 
 [^63]: Baruch Spinoza
     <https://www.biografiasyvidas.com/biografia/s/spinoza.htm>
@@ -2940,7 +2944,8 @@ Henry Newman, "es el corazón encontrando el corazón".
     posibilidad de una mente superior creadora, de un Dios; en su último
     libro "El gran diseño" niega la existencia de Dios.
     <https://www.bbc.com/mundo/ciencia_tecnologia/2010/09/100902_hawking_dios_universo_wbm>
-  
+    https://www.bbc.com/mundo/ciencia_tecnologia/2010/09/100902_hawking_dios_universo_wbm
+
 [^80]: Doctor en matemáticas de Oxford, Cristiano Evangélico
     <https://es.wikipedia.org/wiki/John_Lennox>
 
@@ -2984,7 +2989,7 @@ Henry Newman, "es el corazón encontrando el corazón".
 
 [^93]: Células nerviosas que ejecutan respuestas ante estímulos que
     reciben.
-    <https://www.aula2005.com/html/cn3eso/12efectores/12efectorses.htm>
+    [https://wCw.plantbehavior.org/about-us/](https://www.plantbehavior.org/about-us/)
 
 [^94]: John Henry Newman , profeta de la verdad Católica.
     <https://www.mercaba.org/ARTICULOS/J/john_henry_newman_profeta_de_la.htm>
@@ -3040,7 +3045,7 @@ Henry Newman, "es el corazón encontrando el corazón".
     <https://www.aciprensa.com/noticias/87559/cardenal-sarah-nombrado-miembro-de-este-importante-dicasterio-de-la-curia-romana>
 
 [^108]: Biografía de Anselm Grun
-    <https://gcloyola.com/autor/anselm-grun/>
+    <https://gcloyola.com/1000-anselm-gruen-osb>
 
 [^109]: "La fuerza del silencio", Cardenal Robert Sarah con Nicolas
     Diat, Junio 2019, pág 38
@@ -3426,6 +3431,7 @@ Henry Newman, "es el corazón encontrando el corazón".
     sintetiza la vida de Newman. Nos da la perspectiva de su comprensión
     de la vida Cristiana como una llamada a la santidad, experimentada
     como el deseo profundo del corazón humano de entrar en comunión
+
     íntima con el Corazón de Dios.
     <https://es.catholic.net/op/articulos/49344/cat/162/la-leccion-de-newman-segun-benedicto-xvi-el-corazon-habla-al-corazon.html#modal>
 

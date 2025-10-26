@@ -1,6 +1,6 @@
 project:
   type: book
-  output-dir: docs
+  output-dir: docs # habilitar para GutHub
 
 book:
   title: "El amor se paga con amor"
